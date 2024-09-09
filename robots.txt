@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://kuduhusweb.netlify.app/sitemap.xml
